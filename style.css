@@ -1,0 +1,22 @@
+h1{
+    font-size: 30px;
+    color: orange;
+    font-style: bold;
+    font-family: 'William', serif;
+    text-transform: uppercase; 
+  }
+h2{
+    font-size: 25px;
+    color:green;
+    font-size: 600;
+    font-family: 'Inter', sans-serif;
+    text-transform: uppercase;
+  }
+p{
+    font-size: 16px;
+    color: blue;
+    font-size: medium;
+  }
+img{
+    width: 230px;
+  }
